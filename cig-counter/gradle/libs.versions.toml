@@ -10,6 +10,7 @@ navigationCompose = "2.7.0"
 firebaseBom = "33.5.1"
 room = "2.6.1"
 googleServices = "4.4.1"
+ksp = "1.9.22-1.0.17"
 
 [libraries]
 androidx-compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "composeBom" }
@@ -33,3 +34,4 @@ google-services = { group = "com.google.gms", name = "google-services", version.
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 google-services = { id = "com.google.gms.google-services", version.ref = "googleServices" }
+google-ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
