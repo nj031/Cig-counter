@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cig Counter</string>
+    <string name="add_cig">Add Cigarette</string>
+    <string name="today_count">Today\'s Count</string>
+    <string name="last_cigarette">Last Cigarette</string>
+    <string name="cigarettes">cigarettes</string>
+    <string name="today_timeline">Today\'s Timeline</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="history">History</string>
+    <string name="stats">Stats</string>
+    <string name="settings">Settings</string>
+</resources>
